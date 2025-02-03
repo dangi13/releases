@@ -1,3 +1,6 @@
 {
-    "web-crawler": "version-A"
+  "web-crawler": "version-A",
+  "repo_A": {
+    "hellos": "bye"
   }
+}
